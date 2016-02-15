@@ -30,17 +30,17 @@ Intensive 16-week course of self-guided learning. Worked both alone and as part 
 - Ruby, Rails, PostgreSQL, NodeJS
 - Rspec, Jasmine, Karma
 
-**University College Dublin (Sept 09 to May 2013)**
+#### University College Dublin (Sept 09 to May 2013)
 
-#### BSc General Science in Physics with Astronomy & Space Science
+**BSc General Science in Physics with Astronomy & Space Science**
 -
 Undergraduate course involving the in-depth study of physics and mathematics with applications in space. Developed skills such as critical thinking and problem solving with attention to detail. Studies included modules in Quantum Mechanics, Electromagnetism, Thermodynamics & Statistical Physics, Stellar Astrophysics, Nuclear Physics, Classical Mechanics & Relativity, Multivariable Calculus and programming in C++, MathCAD and Matlab.
 
 Created and presented a piece of art for the Tunnelling Art & Physics exhibition in Temple Bar Art Gallery (May 2012). The theme explored both scientific and artistic methods of investigation.
 
-**BIMM, Dublin Institute of Technology (Sept 13 to May 2014)**
+#### BIMM, Dublin Institute of Technology (Sept 13 to May 2014)
 
-#### Diploma in Professional Musicianship (Guitar)
+**Diploma in Professional Musicianship (Guitar)**
 -
 Part-time course aimed at musicians with semi-professional ability to develop their musical skills to a professional standard.
 
