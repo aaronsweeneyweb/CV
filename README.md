@@ -5,7 +5,7 @@ Aaron Sweeney
 
 I have recently graduated from [Makers Academy](http://www.makersacademy.com/), Europe’s leading web development boot camp. There I learned the principles of software craftsmanship and best design practices with a heavy emphasis on Pair Programming and Test Driven Development. In order to succeed at Makers Academy I was required to learn a range of new technologies at a very fast pace. I am passionate about code, particularly front-end technologies and I am excited to start my career in web development.
 
-https://github.com/asweeney41/website
+
 
 ## Projects
 
