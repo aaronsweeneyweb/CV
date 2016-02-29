@@ -5,7 +5,7 @@ Aaron Sweeney
 
 I have recently graduated from [Makers Academy](http://www.makersacademy.com/), Europe’s leading web development boot camp. There I learned the principles of software craftsmanship and best design practices with a heavy emphasis on Pair Programming and Test Driven Development. In order to succeed at Makers Academy I was required to learn a range of new technologies at a very fast pace. I am passionate about code, particularly front-end technologies and I am excited to start my career in web development.
 
-
+https://github.com/asweeney41/website
 
 ## Projects
 
@@ -13,7 +13,15 @@ I have recently graduated from [Makers Academy](http://www.makersacademy.com/), 
 |-------------|-------------|-------------|
 |SofAR|An Android app that uses Augmented Reality to help you visualise potential furniture purchases in your home. [Code](https://github.com/djtango/furniture-app)|JavaScript, Java, HTML, CSS, Android Studio, [Wikitude](http://www.wikitude.com/)|
 |[Cappricioso](https://capriccioso.herokuapp.com/)|A web app designed to help music students hone their musical ear. [Code](https://github.com/djtango/capriccioso)|JavaScript, HTML, CSS, AngularJS, NodeJS, Express. Tested with Karma|
-|[Thermo](https://github.com/asweeney41/thermo)|A fully functional thermostat web application which is also connected to the OpenWeatherMap API. [Code](https://github.com/asweeney41/thermo)|JavaScript, HTML, CSS, JQuery. Tested with Jasmine|
+|Thermo|A fully functional thermostat web application which is also connected to the OpenWeatherMap API. [Code](https://github.com/asweeney41/thermo)|JavaScript, HTML, CSS, JQuery, Tested with Jasmine|
+|Lorem Ipsum Website|A website I designed to demonstrate my eye for slick web design. (To be deployed to Heroku soon). [Code](https://github.com/asweeney41/website)|HTML, CSS, Bootstrap, JQuery|
+|Github Profiles| An AngularJS web app which uses the Github API to search for users Github profiles by searching usernames. [Code](https://github.com/asweeney41/github_profiles)|AngularJS, JavaScript, HTML, CSS|
+|Yelp Clone| A Ruby on Rails clone of Yelp.com. [Code](https://github.com/asweeney41/yelp-clone-challenge)|Ruby, Rails|
+|Fizz Buzz| Fully Tested. The classic Fizz Buzz game [Ruby Version](https://github.com/asweeney41/fizzbuzz) & [JavaScript Version](https://github.com/asweeney41/javabuzz)| Ruby, JavaScript, Tested with RSpec/Jasmine|
+|Airport| Fully Tested. A program which mimics an airport. Plans can take off and land only when weather conditions are good. [Code](https://github.com/asweeney41/airportjs)| JavaScript|
+|Oystercard| Fully Tested. A program which mimics London's Underground train system. Passengers can touch on at stations, touch off, receive a fine for not touching off. [Code](https://github.com/asweeney41/oystercard)| Ruby|
+|Boris Bikes, AKA Santander Cycles| Fully Tested. A program which mimics London's city bikes scheme. [Code](https://github.com/asweeney41/boris-bikes)| Ruby, Tested with RSpec|
+
 
 
 ## Education
