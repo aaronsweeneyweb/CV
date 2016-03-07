@@ -18,6 +18,7 @@ I have recently graduated from [Makers Academy](http://www.makersacademy.com/), 
 |[Cappricioso](https://capriccioso.herokuapp.com/)|A web app designed to help music students hone their musical ear. [Code](https://github.com/djtango/capriccioso)|JavaScript, HTML, CSS, AngularJS, NodeJS, Express. Tested with Karma|
 |Thermo|A fully functional thermostat web application which is also connected to the OpenWeatherMap API. [Code](https://github.com/asweeney41/thermo)|JavaScript, HTML, CSS, JQuery, Tested with Jasmine|
 |[Lorem Ipsum Website](http://aaron-lorem-ipsum.herokuapp.com/)|A website I designed to demonstrate my eye for slick web design. [Code](https://github.com/asweeney41/website)|HTML, CSS, Bootstrap, JQuery|
+|Battle Game| Fully Tested. A turn based game where two players attack each other until one of their Hit Points reaches zero. Demonstrating the use of HTTP requests. [Code](https://github.com/asweeney41/Battle_3)| Ruby, HTML, Tested with RSpec|
 |Github Profiles| An AngularJS web app which uses the Github API to search for users Github profiles by searching usernames. [Code](https://github.com/asweeney41/github_profiles)|AngularJS, JavaScript, HTML, CSS|
 |Yelp Clone| A Ruby on Rails clone of Yelp.com. [Code](https://github.com/asweeney41/yelp-clone-challenge)|Ruby, Rails|
 |Fizz Buzz| Fully Tested. The classic Fizz Buzz game [Ruby Version](https://github.com/asweeney41/fizzbuzz) & [JavaScript Version](https://github.com/asweeney41/javabuzz)| Ruby, JavaScript, Tested with RSpec/Jasmine|
