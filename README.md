@@ -64,6 +64,11 @@ Part-time course aimed at musicians with semi-professional ability to develop th
 
 ## Experience
 
+**Showtime Analytics** (Apr 2015 to Present)    
+*Front End Developer*  
+
+HTML, CSS, JavaScript, AngularJS.
+
 **Citco Fund Services** (Jan 2015 to Sept 2015)    
 *Depositary Analyst*  
 
