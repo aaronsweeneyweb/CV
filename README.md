@@ -67,7 +67,7 @@ Part-time course aimed at musicians with semi-professional ability to develop th
 **Showtime Analytics** (Apr 2015 to Present)    
 *Front End Developer*  
 
-HTML, CSS, JavaScript, AngularJS.
+Working in an agile environment to create interactive data visualisations for data analytics software within the cinema industry. Adding new features and performing bug fixes for Showtime's main product, Insights; a web app built with AngularJS. Also responsible for design and development of mobile versions of Insight's dashboards. Created promotional (static) websites to host downloadable vouchers for Irish cinema campaigns. Helped to develop an analytics app from inception to production for studio executive clients based in Hollywood.
 
 **Citco Fund Services** (Jan 2015 to Sept 2015)    
 *Depositary Analyst*  
